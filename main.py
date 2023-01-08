@@ -1,0 +1,7 @@
+print("Your Favorite Food Recipe")
+myFood = input("What type of food do you like ")
+myPlant = input (" What is your favorite plant?")
+myMethod = input(" What cooking method o you enjoy?")
+myBurned = input(" How would you describe burned food?")
+myItem = input(" What household item do you use the most?")
+print("You love",myFood,"with the",myBurned, myPlant ,"while",myMethod,"on a",myItem)
